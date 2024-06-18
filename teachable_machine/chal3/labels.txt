@@ -1,0 +1,3 @@
+0 termometre
+1 Fire
+2 Nothing
